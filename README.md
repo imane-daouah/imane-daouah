@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hi there! I'm Imane Daouah, a passionate software engineer with expertise in web development, DevOps practices, and a love for solving challenging problems. I aim to create efficient and secure applications to bring ideas to life.</h1>
+<h1 align="center">Hi 👋,I'm Imane Daouah, a passionate software engineer with expertise in web development, DevOps practices, and a love for solving challenging problems. I aim to create efficient and secure applications to bring ideas to life.</h1>
 <h3 align="center">Software Engineer | Driving Innovation with DevOps and Agile Methodologies</h3>
 
 - 🔭 I’m currently working on **Car Rental System**
