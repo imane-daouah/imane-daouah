@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AWS and Cloud Computing, Microservices Architecture with Spring Boot Angular for Frontend Development**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **DevOps Automation Tools**
 
-- 💬 Ask me about **Java and Spring Boot Development Web, Development with Angular and React DevOps Tools (Docker, Jenkins, Kubernetes)**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **imane.daouah@gmail.com**
 
