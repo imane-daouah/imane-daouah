@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👩🏻‍💻,I'm Imane Daouah, a software engineering student with strong knowledge in development and foundational skills in DevOps.</h1>
 <h3 align="center">Software Engineer | Driving Innovation with DevOps and Agile Methodologies</h3>
 
-- 🔭 I’m currently working on **Car Rental System**
+- 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **AWS and Cloud Computing, Microservices Architecture with Spring Boot Angular for Frontend Development**
 
